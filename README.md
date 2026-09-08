@@ -238,3 +238,6 @@ This repository serves as the official landing page for Luxor. The software is d
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Luxor today!**
+
+---
+**Last updated:** 2026-09-08 18:20:04 UTC
